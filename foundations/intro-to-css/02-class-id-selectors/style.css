@@ -1,1 +1,19 @@
 /* Add CSS Styling */
+.odd{
+    background-color: hsl(0, 100%, 77%);
+    font-family: sans-serif;
+    font-size: 24px;
+}
+.even{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#two{
+    color: hsl(228, 100%, 50%);
+    font-size: 36px;
+}
+#four{
+    font-size: 24px;
+    background-color: hsl(133, 100%, 32%, 0.694);
+    font-weight: 700;
+}
