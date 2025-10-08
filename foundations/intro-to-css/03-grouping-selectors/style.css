@@ -1,1 +1,11 @@
 /* Add CSS Styling */
+.inverted{
+    background-color: black;
+    color: white;
+    font-size: 28px;
+}
+.yellow{
+    background-color: yellow;
+    font-size: 28px;
+
+}
